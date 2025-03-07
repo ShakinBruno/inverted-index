@@ -42,7 +42,7 @@ python inverted_index.py build -d path/to/dataset.txt -s path/to/stopwords.txt -
 To query the inverted index:
 
 ```bash
-python inverted_index.py query --index path/to/output.json --q "word1" "word2"
+python inverted_index.py query --index path/to/output.json -q "word1" "word2"
 ```
 
 Or, to query using a file:
