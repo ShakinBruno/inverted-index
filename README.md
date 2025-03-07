@@ -1,10 +1,10 @@
 # Inverted Index
 
-An inverted index is a data structure used to map words to the indices of documents where these words occur. This structure significantly enhances the efficiency of recommendation systems by enabling faster matching and retrieval of the most relevant documents.
+### Author: Dominik Mikołajczyk
 
 ## Overview
 
-This project provides a command-line interface (CLI) tool for building, saving, loading, and querying an inverted index from a collection of text documents. The tool is designed to handle large datasets efficiently and supports various input and output formats.
+An inverted index is a data structure used to map words to the indices of documents where these words occur. This structure significantly enhances the efficiency of recommendation systems by enabling faster matching and retrieval of the most relevant documents. This project provides a command-line interface (CLI) tool for building, saving, loading, and querying an inverted index from a collection of text documents. The tool is designed to handle large datasets efficiently and supports various input and output formats.
 
 ## Features
 
